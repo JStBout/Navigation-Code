@@ -1,0 +1,30 @@
+ul {
+  text: center;
+  text-transform: uppercase;
+  position: center;
+  top: 0;
+  padding: 20px;
+  width: 100%;
+}
+li {
+  text-transform: uppercase;
+  display: inline;
+  margin: 20;
+  padding: 20;
+  overflow: visible;
+  background-color: #8bd5d1;
+  text-decoration-color: black;
+}
+li a {
+  display: inline;
+  color: white;
+  padding: 10px 15px;
+}
+li a:hover {
+  background-color: #3f5277;
+}
+li {
+  border-right: 1px solid #333;
+}
+li:last-child {
+}
